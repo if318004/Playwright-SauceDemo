@@ -1,7 +1,7 @@
 // @ts-check
 const { test, expect } = require('@playwright/test');
 
-const usernameInputSelector = 'input[name="USERNAME"]';
+const usernameInputSelector = 'input[name="user-name"]';
 const passwordInputSelector = 'input[name="password"]';
 
 //DESCRIBE SCOPE TASKNYA 
